@@ -8,6 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+# Envs
+**/.env
+**/.env.*
+!**/.env.example
+express.txt
 dist
 dist-ssr
 *.local
